@@ -1,0 +1,16 @@
+
+
+[org.mate.Marco.general]
+theme='Vimix-dark-ruby'
+
+
+[org.mate.interface]
+gtk-theme='Vimix-dark-ruby'
+icon-theme='Citrus-red-dark'
+#icon-theme='Numix-Circle'
+
+
+[org.mate.peripherals-mouse]
+cursor-theme='breeze_cursors'
+cursor-size=24
+
